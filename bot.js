@@ -106,4 +106,4 @@ message.author.sendEmbed(rainembed)//send the embed to the author dm
 		   message.author.send({embed})//send the url in the author dm
 	   }
    });
-client.login(process.env.BOT_TOKEN)
+client.login(NTY0ODczOTE1MTY4NzE4ODc5.XKuQzA.80nAIDTff1U-CSgqOmz8JkNjrzA)
